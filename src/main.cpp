@@ -2199,7 +2199,7 @@ static bool deserialise(_NT_algorithm* self, _NT_jsonParse& parse) {
 }
 
 static const _NT_factory factory = {
-    .guid = NT_MULTICHAR('V','F','D','R'),
+    .guid = NT_MULTICHAR('C','G','F','R'),
     .name = "VFader",
     .description = "32 virtual faders, 7/14-bit MIDI CC, CV outputs, F8R control",
     .numSpecifications = 0,
